@@ -44,11 +44,11 @@ const AboutUs = () => {
           Simply pick up the phone and talk to a real person.
         </p>
         <p className="text-gray-700 leading-6 mb-4">
-          As a Bartercard business member, you are invited to take advantage of
+          As a BBX business member, you are invited to take advantage of
           our products and services. This opportunity allows you to potentially
           reduce your communication costs, save money, receive a technology
           upgrade often funded by the savings, and conserve your cash by
-          covering a portion of your costs with Bartercard.
+          covering a portion of your costs with BBX.
         </p>
         <p className="text-lg text-gray-700 font-bold mt-6">
           “We are excited to contribute to the growth and success of your
