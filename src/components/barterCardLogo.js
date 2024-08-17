@@ -1,5 +1,5 @@
 import React from "react";
-import logoSrc from "./../assets/Bartercard_logo.jpg";
+import logoSrc from "./../assets/BBX logo.webp";
 import { Typography, Container, Grid } from "@mui/material";
 
 // This component renders a centered title with a logo on the right using MUI
@@ -9,8 +9,8 @@ const BarterCardLogo = () => {
       <Grid container alignItems="center" justifyContent="center" spacing={2}>
         {/* Title Section */}
         <Grid item xs={12} md={10} sx={{ textAlign: "center" }}>
-          <Typography variant="h4" component="h1" sx={{ color: "#a6ce37" }}>
-            Use Bartercard for your communication needs
+          <Typography variant="h4" component="h1" sx={{ color: "#0057A7" }}>
+            Use BBX for your communication needs
           </Typography>
         </Grid>
 

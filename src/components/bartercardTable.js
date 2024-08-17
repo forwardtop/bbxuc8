@@ -25,11 +25,11 @@ const BarterCardTable = () => {
       <table className="min-w-full divide-y divide-gray-200 mb-16">
         <thead className="bg-gray-50">
           <tr>
-            <th className="px-6 py-3 text-center text-lg font-medium text-[#91b828]  tracking-wider border border-slid border-gray-700">
+            <th className="px-6 py-3 text-center text-lg font-medium text-[#0057A7]  tracking-wider border border-slid border-gray-700">
               Commitment Period
             </th>
-            <th className="px-6 py-3 text-center text-lg font-medium text-[#91b828] tracking-wider border border-slid border-gray-700">
-              Pre-Pay with Bartercard
+            <th className="px-6 py-3 text-center text-lg font-medium text-[#0057A7] tracking-wider border border-slid border-gray-700">
+              Pre-Pay with BBX
             </th>
           </tr>
         </thead>

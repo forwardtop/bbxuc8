@@ -6,7 +6,7 @@ export default function Hero() {
 
   return (
     <div className="sm:h-full bg-cover">
-      <title>Integra BarterCard</title>
+      <title>BBX UC8</title>
       <meta
         name="description"
         content="UC8 offers hosted IPPBX business phone systems with no upfront hardware cost, customizable voice plans, and local hosting in Australia. Request a quote today."

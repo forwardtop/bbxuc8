@@ -171,7 +171,7 @@ const DropdownMenu = () => {
           <Link to="/about-us">About Us</Link>
         </li>
         <li>
-          <Link to="/bartercard">BarterCard</Link>
+          <Link to="/bbx">BBX</Link>
         </li>
       </ul>
     </nav>
