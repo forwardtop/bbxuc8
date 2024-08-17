@@ -7,7 +7,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     $message = $_POST["message"];
     
     // Set additional headers
-    $from = "noreply@integra-bartercard.com.au"; // Change this to a valid email address from your domain
+    $from = "noreply@bbxuc8.com.au"; // Change this to a valid email address from your domain
     $headers = "From: Integra BarterCard <" . $from . ">\r\n";
     $headers .= "Reply-To: " . $_POST["from"] . "\r\n";
     
